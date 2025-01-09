@@ -1,0 +1,6 @@
+[ 2025-01-09 16:43:19,130 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-01-09 16:43:19,137 ] 97 werkzeug - INFO -  * Debugger PIN: 368-050-414
+[ 2025-01-09 16:43:41,116 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\arun kumar\\downloads\\diamond-price-prediction-with-dvc-flask-streamlit-main\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\timeout.py', reloading
+[ 2025-01-09 16:43:41,151 ] 97 werkzeug - INFO -  * Detected change in 'c:\\Users\\ARUN KUMAR\\Downloads\\Diamond-Price-Prediction-with-DVC-Flask-Streamlit-main\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\timeout.py', reloading
+[ 2025-01-09 16:43:41,164 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\arun kumar\\downloads\\diamond-price-prediction-with-dvc-flask-streamlit-main\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\url.py', reloading
+[ 2025-01-09 16:43:41,165 ] 97 werkzeug - INFO -  * Detected change in 'c:\\Users\\ARUN KUMAR\\Downloads\\Diamond-Price-Prediction-with-DVC-Flask-Streamlit-main\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\url.py', reloading

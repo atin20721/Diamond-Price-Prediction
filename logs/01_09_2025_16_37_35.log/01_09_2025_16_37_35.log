@@ -1,0 +1,9 @@
+[ 2025-01-09 16:37:38,477 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-01-09 16:37:38,492 ] 97 werkzeug - INFO -  * Debugger PIN: 368-050-414
+[ 2025-01-09 16:37:38,619 ] 97 werkzeug - INFO -  * Detected change in 'c:\\Users\\ARUN KUMAR\\Downloads\\Diamond-Price-Prediction-with-DVC-Flask-Streamlit-main\\venv\\Lib\\site-packages\\win32\\Demos\\CreateFileTransacted_MiniVersion.py', reloading
+[ 2025-01-09 16:37:38,623 ] 97 werkzeug - INFO -  * Detected change in 'c:\\Users\\ARUN KUMAR\\Downloads\\Diamond-Price-Prediction-with-DVC-Flask-Streamlit-main\\venv\\Lib\\site-packages\\win32\\Demos\\EvtFormatMessage.py', reloading
+[ 2025-01-09 16:37:38,626 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\arun kumar\\downloads\\diamond-price-prediction-with-dvc-flask-streamlit-main\\venv\\Lib\\site-packages\\win32\\Demos\\EvtFormatMessage.py', reloading
+[ 2025-01-09 16:37:38,626 ] 97 werkzeug - INFO -  * Detected change in 'c:\\Users\\ARUN KUMAR\\Downloads\\Diamond-Price-Prediction-with-DVC-Flask-Streamlit-main\\venv\\Lib\\site-packages\\win32\\Demos\\EvtSubscribe_pull.py', reloading
+[ 2025-01-09 16:37:38,633 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\arun kumar\\downloads\\diamond-price-prediction-with-dvc-flask-streamlit-main\\venv\\Lib\\site-packages\\win32\\Demos\\EvtSubscribe_pull.py', reloading
+[ 2025-01-09 16:37:38,639 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\arun kumar\\downloads\\diamond-price-prediction-with-dvc-flask-streamlit-main\\venv\\Lib\\site-packages\\win32\\Demos\\EvtSubscribe_push.py', reloading
+[ 2025-01-09 16:37:38,640 ] 97 werkzeug - INFO -  * Detected change in 'c:\\Users\\ARUN KUMAR\\Downloads\\Diamond-Price-Prediction-with-DVC-Flask-Streamlit-main\\venv\\Lib\\site-packages\\win32\\Demos\\EvtSubscribe_push.py', reloading

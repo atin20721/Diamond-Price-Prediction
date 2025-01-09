@@ -1,0 +1,27 @@
+[ 2025-01-09 15:47:10,549 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-01-09 15:47:10,560 ] 97 werkzeug - INFO -  * Debugger PIN: 106-820-153
+[ 2025-01-09 15:48:14,028 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:48:14] "GET / HTTP/1.1" 200 -
+[ 2025-01-09 15:48:14,041 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:48:14] "[33mGET /Font%20Awesome/fontawesome-free-6.4.2-web/fontawesome-free-6.4.2-web/css/all.min.css HTTP/1.1[0m" 404 -
+[ 2025-01-09 15:48:14,228 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:48:14] "[33mGET /templates/style.css HTTP/1.1[0m" 404 -
+[ 2025-01-09 15:48:14,367 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:48:14] "[33mGET /images/ayo-pic.jpg HTTP/1.1[0m" 404 -
+[ 2025-01-09 15:48:15,169 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:48:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-01-09 15:48:24,377 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:48:24] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-01-09 15:48:38,373 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:48:38] "GET / HTTP/1.1" 200 -
+[ 2025-01-09 15:48:38,610 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:48:38] "[33mGET /Font%20Awesome/fontawesome-free-6.4.2-web/fontawesome-free-6.4.2-web/css/all.min.css HTTP/1.1[0m" 404 -
+[ 2025-01-09 15:48:38,616 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:48:38] "[33mGET /templates/style.css HTTP/1.1[0m" 404 -
+[ 2025-01-09 15:48:38,698 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:48:38] "[33mGET /images/ayo-pic.jpg HTTP/1.1[0m" 404 -
+[ 2025-01-09 15:54:51,358 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:54:51] "GET / HTTP/1.1" 200 -
+[ 2025-01-09 15:54:51,380 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:54:51] "[33mGET /Font%20Awesome/fontawesome-free-6.4.2-web/fontawesome-free-6.4.2-web/css/all.min.css HTTP/1.1[0m" 404 -
+[ 2025-01-09 15:54:51,466 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:54:51] "[33mGET /templates/style.css HTTP/1.1[0m" 404 -
+[ 2025-01-09 15:54:51,683 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 15:54:51] "[33mGET /images/ayo-pic.jpg HTTP/1.1[0m" 404 -
+[ 2025-01-09 16:03:57,258 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 16:03:57] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-01-09 16:06:27,482 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 16:06:27] "GET / HTTP/1.1" 200 -
+[ 2025-01-09 16:06:27,708 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 16:06:27] "[33mGET /Font%20Awesome/fontawesome-free-6.4.2-web/fontawesome-free-6.4.2-web/css/all.min.css HTTP/1.1[0m" 404 -
+[ 2025-01-09 16:06:27,719 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 16:06:27] "[33mGET /templates/style.css HTTP/1.1[0m" 404 -
+[ 2025-01-09 16:06:27,806 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 16:06:27] "[33mGET /images/ayo-pic.jpg HTTP/1.1[0m" 404 -
+[ 2025-01-09 16:06:32,437 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 16:06:32] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-01-09 16:07:07,720 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 16:07:07] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-01-09 16:07:07,915 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 16:07:07] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-01-09 16:07:07,947 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 16:07:07] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2025-01-09 16:07:08,324 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 16:07:08] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=nMzDNzloWVTo4nEOJce6 HTTP/1.1" 200 -
+[ 2025-01-09 16:07:08,564 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 16:07:08] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
