@@ -1,0 +1,11 @@
+[ 2025-01-09 17:28:03,608 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-01-09 17:28:03,625 ] 97 werkzeug - INFO -  * Debugger PIN: 368-050-414
+[ 2025-01-09 17:28:35,476 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 17:28:35] "GET / HTTP/1.1" 200 -
+[ 2025-01-09 17:28:35,543 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 17:28:35] "[33mGET /Font%20Awesome/fontawesome-free-6.4.2-web/fontawesome-free-6.4.2-web/css/all.min.css HTTP/1.1[0m" 404 -
+[ 2025-01-09 17:28:35,744 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 17:28:35] "[33mGET /templates/style.css HTTP/1.1[0m" 404 -
+[ 2025-01-09 17:28:35,866 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 17:28:35] "[33mGET /images/ayo-pic.jpg HTTP/1.1[0m" 404 -
+[ 2025-01-09 17:28:36,211 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 17:28:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-01-09 17:28:39,802 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 17:28:39] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-01-09 17:29:30,112 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jan/2025 17:29:30] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-01-09 17:30:57,079 ] 97 werkzeug - INFO -  * Detected change in 'c:\\Users\\ARUN KUMAR\\Downloads\\Diamond-Price-Prediction-with-DVC-Flask-Streamlit-main\\wsgi.py', reloading
+[ 2025-01-09 17:30:57,081 ] 97 werkzeug - INFO -  * Detected change in 'c:\\Users\\ARUN KUMAR\\Downloads\\Diamond-Price-Prediction-with-DVC-Flask-Streamlit-main\\wsgi.py', reloading
